@@ -1,0 +1,41 @@
+24:30 min
+tput reset
+
+references:
+
+https://stackoverflow.com/questions/19875136/continuous-keyboard-input-in-c
+https://askubuntu.com/questions/25077/how-to-really-clear-the-terminal
+http://www.cplusplus.com/reference/cctype/isdigit/
+https://stackoverflow.com/questions/8248714/how-can-i-tell-if-a-multi-dimensional-array-has-not-been-assigned-to
+https://www.ics.uci.edu/~dan/class/165/notes/memory.html
+http://www.cplusplus.com/forum/beginner/89434/
+http://www.cprogramming.com/fod/kbhit.html
+http://forums.fedoraforum.org/showthread.php?t=172337
+https://stackoverflow.com/questions/496664/c-dynamic-shared-library-on-linux
+http://www.cplusplus.com/articles/4z18T05o/
+https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/UsingDynamicLibraries.html
+https://discussions.apple.com/thread/1895619?tstart=0
+https://www.gnu.org/software/make/manual/make.html#Overview
+http://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html
+https://ubuntuforums.org/showthread.php?t=1604505
+http://man7.org/linux/man-pages/man3/dlopen.3.html
+https://stackoverflow.com/questions/13238511/xcode-clang-clang-warning-argument-unused-during-compilation-fcheck-new
+http://forums.codeblocks.org/index.php?topic=12143.0
+https://www.google.com/search?client=ubuntu&channel=fs&q=using+makefiels&ie=utf-8&oe=utf-8#q=using+makefiles&channel=fs&tbm=vid
+https://stackoverflow.com/questions/480764/linux-error-while-loading-shared-libraries-cannot-open-shared-object-file-no-s
+https://ubuntuforums.org/showthread.php?t=1604505
+https://stackoverflow.com/questions/496664/c-dynamic-shared-library-on-linux
+https://stackoverflow.com/questions/29876411/how-to-install-compile-sdl2-c-code-on-linux-ubuntu
+https://stackoverflow.com/questions/31365160/sdl-show-score-on-screen
+
+Impotent!!!
+
+dynamic libs:
+http://www.tldp.org/HOWTO/html_single/C++-dlopen/
+
+sdl:
+https://www.youtube.com/playlist?list=PL7KCQDpC21pnZwhmuBChNmLKZmOjNErqP
+http://aaroncox.net/tutorials/2dtutorials/sdl_text.pdf
+
+
+http://lazyfoo.net/tutorials/SDL/06_extension_libraries_and_loading_other_image_formats/linux/cli/index.php
